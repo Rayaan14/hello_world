@@ -1,5 +1,4 @@
 # hello_world
 Just another repositary.
 
-Hello!!!
-This is my first GitHub repositary!
+This line has been added to practice commit and pull requests on GitHub.
